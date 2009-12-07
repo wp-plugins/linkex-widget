@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: massivo
+Contributors: Juanjo Pher
 Tags: linkex, blogroll, link, widget, plugin
 Requires at least: 2.0
 Tested up to: 2.5
