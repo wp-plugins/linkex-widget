@@ -9,6 +9,8 @@ LinkexWidget shows your LinkEX links in a widget that you can add to your sideba
 
 == Description ==
 
+**This plugin has been discontinued. Please use [WP-LinkEX](http://wordpress.org/extend/plugins/wp-linkex/ "WP-LinkEX"): it's much more complete and has no ads.**
+
 Many bloggers are using the fantastic application [LinkEX](http://linkex.dk/ "LinkEX") to manage their links to and from other blogs, but there aren't a widget that easily shows your links from LinkEX to the sidebar of your blog.
 
 This is the simply role of LinkexWidget. It allows you to easily add a widget to your blog to display your links. Nothing more.
