@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: massivo
+Contributors: Juanjo Pher
 Tags: linkex, blogroll, link, widget, plugin
 Requires at least: 2.0
 Tested up to: 2.5
@@ -8,6 +8,8 @@ Stable tag: 0.2
 LinkexWidget shows your LinkEX links in a widget that you can add to your sidebar like any other.
 
 == Description ==
+
+**This plugin has been discontinued. Please use [WP-LinkEX](http://wordpress.org/extend/plugins/wp-linkex/ "WP-LinkEX"): it's much more complete and has no ads.**
 
 Many bloggers are using the fantastic application [LinkEX](http://linkex.dk/ "LinkEX") to manage their links to and from other blogs, but there aren't a widget that easily shows your links from LinkEX to the sidebar of your blog.
 
